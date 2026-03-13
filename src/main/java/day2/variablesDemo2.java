@@ -1,6 +1,6 @@
-package day2.copy;
+package day2;
 
-public class variablesDemo {
+public class variablesDemo2 {
 
 	public static void main(String[] args) {
 		int a;  //Declaration
@@ -27,6 +27,10 @@ public class variablesDemo {
 		
 		byte bb=20;
 		
+		
+		
+		
+
 	}
 
 }

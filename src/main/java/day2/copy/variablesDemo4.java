@@ -1,6 +1,6 @@
 package day2.copy;
 
-public class variablesDemo {
+public class variablesDemo4 {
 
 	public static void main(String[] args) {
 		int a;  //Declaration
